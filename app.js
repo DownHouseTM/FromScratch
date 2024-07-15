@@ -1,4 +1,5 @@
 function main() {
+  // Bad Luck
   return "running app";
 }
 
