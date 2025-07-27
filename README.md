@@ -2,4 +2,4 @@
 ## 1- How to Contribute
 Be active.
 
-Go to [Google](https://www.google.com)
+Go to [Github](https://www.github.com)
