@@ -1,4 +1,5 @@
 function main() {
+  console.log("running");
   return "running";
 }
 
