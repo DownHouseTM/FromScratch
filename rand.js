@@ -16,6 +16,11 @@ const justRand = () => {
   return Math.random()l
 }
 
+/**
+* @param a
+* @param b
+*
+*/
 const randomInRange = (a, b) => {
   return Math.random() * (b - a) + a;
 }
