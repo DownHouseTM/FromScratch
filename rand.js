@@ -12,6 +12,9 @@ const gerRandomByOrder = () => {
   return {bigger, smaller};
 }
 
+const justRand = () => {
+  return Math.random()l
+}
 
 
 
